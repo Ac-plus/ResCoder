@@ -4,7 +4,7 @@
 
 ## v1
 
-使用ReAct模式、Function Calling通信方法，在Kaggle实现了一个能自动生成可执行代码的Agent。Agent的执行逻辑如下。首先用户提出需求，Agent获取工具列表后发送给大模型。如下图：
+使用ReAct模式、Function Calling通信方法，实现了一个能自动生成可执行代码的Agent。Agent的执行逻辑如下。首先用户提出需求，Agent获取工具列表后发送给大模型。如下图：
 
 <img width="1053" height="261" alt="image" src="https://github.com/user-attachments/assets/7cc8b774-8ef7-4e1b-aa3b-b994877992fd" />
 
